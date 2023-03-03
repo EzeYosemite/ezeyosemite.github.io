@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ezeyosemite.github.io/static/css/main.deb5b1e5.css",
+    "main.js": "/ezeyosemite.github.io/static/js/main.ea550e13.js",
+    "static/js/787.0c3f432a.chunk.js": "/ezeyosemite.github.io/static/js/787.0c3f432a.chunk.js",
+    "static/media/kp.png": "/ezeyosemite.github.io/static/media/kp.e45cc8e1ec97534541e6.png",
+    "static/media/kf.png": "/ezeyosemite.github.io/static/media/kf.37916a299955c812f64b.png",
+    "static/media/nc.png": "/ezeyosemite.github.io/static/media/nc.3b59c202195b1df28147.png",
+    "static/media/apl.png": "/ezeyosemite.github.io/static/media/apl.0def76a32f67b41d8ce8.png",
+    "static/media/bee.png": "/ezeyosemite.github.io/static/media/bee.7ccb827cd8abcb4da538.png",
+    "static/media/Dashboard.xlsm": "/ezeyosemite.github.io/static/media/Dashboard.bc89bfbb652181bcde1c.xlsm",
+    "static/media/me.png": "/ezeyosemite.github.io/static/media/me.3ed13c6307029d728493.png",
+    "static/media/logo.png": "/ezeyosemite.github.io/static/media/logo.551d9d2b2c9bd9cb9c5a.png",
+    "static/media/logo1.png": "/ezeyosemite.github.io/static/media/logo1.94e15fafb587154a5590.png",
+    "index.html": "/ezeyosemite.github.io/index.html",
+    "main.deb5b1e5.css.map": "/ezeyosemite.github.io/static/css/main.deb5b1e5.css.map",
+    "main.ea550e13.js.map": "/ezeyosemite.github.io/static/js/main.ea550e13.js.map",
+    "787.0c3f432a.chunk.js.map": "/ezeyosemite.github.io/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb5b1e5.css",
+    "static/js/main.ea550e13.js"
+  ]
+}
